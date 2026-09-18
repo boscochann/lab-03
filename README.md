@@ -2,16 +2,21 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Bosco Chan`
+- **CCID:** `<btc`
 
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
+https://stackoverflow.com/questions/44595529/smart-cast-to-type-is-impossible-because-variable-is-a-mutable-property-tha
+
+Utilized a lot of the code from lab 2 and implemented it here for my updateCity
+TA's were very helpful
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Benjamin He`    | `bhe5` |
 | `<Add more>` | `<CCID>`  |
