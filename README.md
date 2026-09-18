@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Bosco Chan`
-- **CCID:** `<btc`
+- **CCID:** `btc`
 
 ## References and Resources
 
@@ -19,4 +19,4 @@ TA's were very helpful
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Benjamin He`    | `bhe5` |
-| `<Add more>` | `<CCID>`  |
+
